@@ -1,0 +1,23 @@
+{
+  "name": "sendit",
+  "version": "1.0.0",
+  "description": "Sample JavaScript App with MEAN",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isaachambers/sendit.git"
+  },
+  "author": "Isaac Kiyimba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isaachambers/sendit/issues"
+  },
+  "homepage": "https://github.com/isaachambers/sendit#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
